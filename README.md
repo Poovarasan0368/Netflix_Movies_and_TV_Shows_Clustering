@@ -1,6 +1,6 @@
 # Netflix_Movies_and_TV_Shows_Clustering
 
-![image.png](https://images.squarespace-cdn.com/content/v1/520b6dcee4b0734e32e29746/1553093622986-F8DCADFCEQGUZMAWVVTX/Netflix_anim.gif)
+![image.png](https://images.squarespace-cdn.com/content/v1/599bbf76914e6bb960c6d0bb/1570094672119-ZKYXULH7KGAG1EXODHNE/netflix-logo.gif?format=1000w)
 
 ## Introduction 📘
 Netﬂix is a media distribution company. It started with  DVD distribution via mail, but has evolved substantially  over the course of its existence. Today, Netﬂix is focused  on streaming video. Some of its content is licensed, and  some of the content is produced in-house. Netﬂix originally focused on movies, but today  television shows are probably the more common  format. Netﬂix works on a subscription model, where  users get unlimited access to content with a paid  subscription.
