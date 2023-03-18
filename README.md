@@ -55,7 +55,11 @@ The	dataset consists of listings of all the movies and tv shows available on Net
     1. K-means clustering
     2. Agglomerative clustering 
     3. Birch clustering
-and the Vectorizer used in this project is TfidfVectorizer
+    
+## Vectorizer that used in this project are 🔼
+ 
+    1. TfidfVectorizer
+    2. CountVectorizer
 
 ## Conclusion ✌
 
