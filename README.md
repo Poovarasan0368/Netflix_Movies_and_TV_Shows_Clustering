@@ -77,4 +77,4 @@ The	dataset consists of listings of all the movies and tv shows available on Net
 
 * America and India produces the majority of movies and television Shows, But in India Movies are more well produced than television shows.
 
-* Netflix's addition of movies and television shows increased from 2016 to 2019, but from 2019 to 2021, it gradually dropped, possibly as a result of COVID.
+* Netflix's addition of movies and television shows increased from 2016 to 2019, but from 2019 to 2021, it gradually dropped, possibly as a result of COVID. 
